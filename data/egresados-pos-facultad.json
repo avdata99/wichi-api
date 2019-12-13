@@ -1,0 +1,79 @@
+{
+    "queryInfo": {
+        "totalRows": "11"
+    },
+    "resultset": [
+        [
+            "HUMANISTICAS",
+            857,
+            20.28
+        ],
+        [
+            "EXACTAS Y NATURALES",
+            787,
+            18.62
+        ],
+        [
+            "VETERINARIAS Y SALUD ANIMAL",
+            772,
+            18.27
+        ],
+        [
+            "ADMINISTRACION Y ECONOMIA",
+            636,
+            15.05
+        ],
+        [
+            "DERECHO Y SOCIALES",
+            329,
+            7.79
+        ],
+        [
+            "INGENIERIA",
+            253,
+            5.99
+        ],
+        [
+            "PERIODISMO",
+            195,
+            4.61
+        ],
+        [
+            "CINE Y TV",
+            195,
+            4.61
+        ],
+        [
+            "AGRARIAS Y FORESTALES",
+            113,
+            2.67
+        ],
+        [
+            "MEDICINA",
+            82,
+            1.94
+        ],
+        [
+            "INSTITUTO DE INVESTIGACION",
+            7,
+            0.17
+        ]
+    ],
+    "metadata": [
+        {
+            "colIndex": 0,
+            "colType": "String",
+            "colName": "dependencia"
+        },
+        {
+            "colIndex": 1,
+            "colType": "Numeric",
+            "colName": "cant_egresados"
+        },
+        {
+            "colIndex": 2,
+            "colType": "Numeric",
+            "colName": "porcentaje"
+        }
+    ]
+}

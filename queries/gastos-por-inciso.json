@@ -1,0 +1,12 @@
+{
+    "name": "Distribución de gasto por inciso",
+    "params": {
+        "paramprm_ej_presup": 2016,
+        "path": "/home/SIU-Wichi/Portal Transparencia/cda/1_presupuesto.cda",
+        "dataAccessId": "tablero_05",
+        "outputIndexId": 1,
+        "pageSize": 0,
+        "pageStart": 0,
+        "sortBy": null
+        }
+ }

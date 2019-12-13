@@ -1,0 +1,54 @@
+{
+    "queryInfo": {
+        "totalRows": "6"
+    },
+    "resultset": [
+        [
+            "7 - SERVICIO DE LA DEUDA Y DISMINUCI\u00d3N DE OTROS PASIVOS",
+            7248424.02,
+            1.78
+        ],
+        [
+            "5 - TRANSFERENCIAS",
+            18227038.61,
+            4.48
+        ],
+        [
+            "4 - BIENES DE USO",
+            12654231.88,
+            3.11
+        ],
+        [
+            "3 - SERVICIOS NO PERSONALES",
+            31305289.3,
+            7.69
+        ],
+        [
+            "2 - BIENES DE CONSUMO",
+            8416078.47,
+            2.07
+        ],
+        [
+            "1 - GASTOS EN PERSONAL",
+            329216120.36,
+            80.88
+        ]
+    ],
+    "metadata": [
+        {
+            "colIndex": 0,
+            "colType": "String",
+            "colName": "inciso"
+        },
+        {
+            "colIndex": 1,
+            "colType": "Numeric",
+            "colName": "total_devengado"
+        },
+        {
+            "colIndex": 2,
+            "colType": "Numeric",
+            "colName": "porcentaje"
+        }
+    ]
+}
